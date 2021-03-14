@@ -1,0 +1,8 @@
+IWad
+{
+	Name = "PLACEHOLDER"
+	AutoName = "PLACEHOLDER"
+	Game = "Doom"
+	Config = "Doom"
+	BannerColors = "ff 00 e6", "78 00 6c"
+}
